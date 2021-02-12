@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
+# About 
 
-Feel free to tell the world about what you love! 😍
+I am just getting started with the idea of digital gardening and I'm excited to see what grows here.
